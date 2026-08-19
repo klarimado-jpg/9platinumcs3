@@ -7,3 +7,5 @@ birthday kopo august 18
 Computer Thinking Skills:
 https://github.com/klarimado-jpg/9platinumcs3/blob/main/quarter1/ctskillsPlatinumArimado.md
 
+Chinese Zodiac:
+https://github.com/klarimado-jpg/9platinumcs3/blob/main/quarter1/zodiacPlatinumArimado.md
