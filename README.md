@@ -8,7 +8,7 @@
 ** birthday kopo august 18
 
 # Computational Thinking Skills:
-[View my work heree!⋆˚꩜｡](https://github.com/klarimado-jpg/ctskillsPlatinumArimado.md)
+[View my work heree!⋆˚꩜｡](quarter1/ctskillsPlatinumArimado.md)
 
 # Chinese Zodiac:
 [View my work heree!⋆˚꩜｡](https://github.com/klarimado-jpg/zodiacPlatinumArimado.md)
