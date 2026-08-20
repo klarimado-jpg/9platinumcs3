@@ -1,5 +1,7 @@
-Computational Thinking Skills Activity
+## Computational Thinking Skills Activity
+
 Krisha L. Arimado | 9-Platinum
+
 Date: August 13, 2025
 
 Smart School Canteen
