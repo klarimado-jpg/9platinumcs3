@@ -1,11 +1,14 @@
 ## Computer Science 3 Portfolio
 #  ─── ⋆⋅☆⋅⋆ ───
 
-# Student Information
-** Krisha L. Arimado
-** 9-Platinum
-** from LEgazpi CIty ALbay!!!
-** birthday kopo august 18
+## Student Information
+Krisha L. Arimado
+
+9-Platinum
+
+from LEgazpi CIty ALbay!!!
+
+birthday kopo august 18
 
 # Computational Thinking Skills:
 [View my work heree!⋆˚꩜｡](quarter1/ctskillsPlatinumArimado.md)
