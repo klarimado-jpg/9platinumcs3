@@ -18,3 +18,6 @@ birthday kopo august 18
 
 # OOP CONCEPT:
 [ILA 3-1: Applying the Four Pillars of OOP](quarter1/ila_oop.md)
+
+# OOP ACT:
+[View my work heree!⋆˚꩜｡]
