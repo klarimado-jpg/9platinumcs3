@@ -2,6 +2,7 @@
 
 ## Class Name
 Context: Personal Productivity
+
 Class Name: StudyPlanner
 
 ## Class Description
@@ -9,16 +10,23 @@ A StudyPlanner represents a personal study plan that helps a student organize a 
 
 ## Properties
 | Property | Data Type | Description |
+
 | subject | string | The subject that the student needs to study |
+
 | task | string  | The specific lesson or task to study|
+
 | duration | int | The planned study time in minutes |
+
 | completed | boolean | Indicates whether the study task is finished |
 
 ## Methods
 
 | Method | Description |
+
 | displayPlan() | Displays the details of the study plan|
+
 | markCompleted() | Changes the study task's status to be completed|
+
 | changeDuration(minutes: int) | Updates the planned study duration|
 
 ## Class Diagram
