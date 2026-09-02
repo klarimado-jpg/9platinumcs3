@@ -1,5 +1,7 @@
-Computational Thinking Skills Activity
+## Computational Thinking Skills Activity
+
 Krisha L. Arimado | 9-Platinum
+
 Date: August 13, 2025
 
 Smart School Canteen
@@ -19,7 +21,7 @@ Smart School Canteen
 1. Subproblem: Students take too long to decide what to order
 CT skill: Decomposition
 Example solution: Create a digital menu that groups food items by category and shows the prices so that students can decide before reaching the cashier.
-T
+
 2. Subproblem: The cashier manually calculates the total and change
 CT skill: Algorithm
 Example Solution: Create a system that automatically adds the prices of selected items and calculates the correct change based on the amount paid.
@@ -36,13 +38,21 @@ Solution: Separate the ordering and payment process into organized steps such as
 There is no system for monitoring food availability
 
 START
+
 Display the menu with food items, prices, and availability.
+
 Students choose food items.
+
 IF the chosen food item is available THEN
+   
     Add the item to the order.
+
 ELSE
+    
     Display "Sorry, this item is sold out."
+    
     Ask the student to choose another item.
+
 END
 
 **Thank You!!**

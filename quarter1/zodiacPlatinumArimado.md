@@ -1,3 +1,9 @@
+## Chinese Zodiac
+
+Krisha L. Arimado
+
+9-Platinum
+
 birth_year = int(input("Enter your birth year: "))
 
 if birth_year < 1900:

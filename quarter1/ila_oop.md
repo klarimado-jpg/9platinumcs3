@@ -1,5 +1,9 @@
 # ILA 3-1: Applying the Four Pillars of OOP
 
+Krisha L. Arimado 
+
+9-Platinum
+
 ## Sari-Sari Store Inventory System
 
 ### 1. Encapsulation
