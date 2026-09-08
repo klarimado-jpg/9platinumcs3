@@ -13,7 +13,7 @@ Link to my previous activity:
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
 | subject | string | public | it can be accessed normally because the subject is basic information about the study plan |
-| task | string | public | |
+| task | string | public | it can be accessed normally because |
 | duration | int | private | |
 | completed | boolean | public | |
 
@@ -21,7 +21,7 @@ Link to my previous activity:
 ![Class Diagram](images/classDiagramSG5.png)
 
 ## Python Implementation
-[View Python Source](classImplementation.py)
+[View Python Source](classImplementation.py)!
 
 ## Test Run
 ![Test Run](images/classTestRun.png)
@@ -41,4 +41,5 @@ The markCompleted() method changes the completed attribute from False to True. I
 I created two StudyPlanner objects with different subjects, tasks, and durations. When I called markCompleted on Object 1, only Object 1 changed its completed value to True. Object 2 remained False, showing that each objects keep its own state.
 
 ### What is the difference between your class diagram and your object diagram?
+
 
