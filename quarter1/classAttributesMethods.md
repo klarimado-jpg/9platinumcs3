@@ -13,9 +13,9 @@ Link to my previous activity:
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
 | subject | string | public | it can be accessed normally because the subject is basic information about the study plan |
-| task | string | public | it can be accessed normally because |
-| duration | int | private | |
-| completed | boolean | public | |
+| task | string | public | it can be accessed normally because it describes what needs to be studied |
+| duration | int | private | it should be protected so that invalid or negative study timmes cannot be assigned directly |
+| completed | boolean | public | it shows wether the task is finished |
 
 ## Updated UML Class Diagram
 ![Class Diagram](images/classDiagramSG5.png)
@@ -41,5 +41,6 @@ The markCompleted() method changes the completed attribute from False to True. I
 I created two StudyPlanner objects with different subjects, tasks, and durations. When I called markCompleted on Object 1, only Object 1 changed its completed value to True. Object 2 remained False, showing that each objects keep its own state.
 
 ### What is the difference between your class diagram and your object diagram?
+The class diagram shows the general blueprint of the StudyPlanner class, including its attributes, data types, visibility, and methods. The object diagram shows actual instances created from that class. In the object diagram, Object 1 contains Mathematics and Object 2 contains buology, demonstrating that objects created from the same class can have different values. 
 
 
