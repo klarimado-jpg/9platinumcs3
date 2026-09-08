@@ -21,3 +21,7 @@ birthday kopo august 18
 
 # OOP ACT:
 [View my work heree!⋆˚꩜｡](quarter1/classObjectUML.md)
+
+# OOP ACT PART 2:
+[View my work heree!⋆˚꩜｡]()
+
