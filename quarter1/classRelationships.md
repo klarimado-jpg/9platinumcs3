@@ -8,19 +8,23 @@
 
 ## Existing Class
 
-Class:
-Description:
+Class: StudyPlanner
+
+Description: A StudyPlanner represents a personal study plan that helps a student organize a subject, schedule, and completion status for a study task.
 
 ## New Related Class
 Class:
+
 Description:
 
 ## Association
 Relationship:
+
 Explanation:
 
 ## Multiplicity
 Multiplicity:
+
 Explanation:
 
 ## UML Class Relationship Diagram
