@@ -13,12 +13,12 @@ Class: StudyPlanner
 Description: A StudyPlanner represents a personal study plan that helps a student organize a subject, schedule, and completion status for a study task.
 
 ## New Related Class
-Class:
+Class: StudySession 
 
-Description:
+Description: A StudySession represents a study plan that represents a specific block of time dedicated to studying. It contains attributes like start time, end time, duration, and breaks. It helps students assign different subjects to learn in different time intervals (pomodoro method).
 
 ## Association
-Relationship:
+Relationship: 
 
 Explanation:
 
