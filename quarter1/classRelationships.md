@@ -42,11 +42,16 @@ Explanation: One StudyPlanner can have zero or more StudySession objects. A stud
 ## Analysis
 
 ### What is the association between your two classes?
+The association between StudyPlanner and StudySession is a HAS-A relationship. A StudyPlanner has StudySession objects that help organize the student's study schedule. The StudyPlanner can manage several study sessions for different study periods.
 
 ### What multiplicity did you choose and why?
+I chose a onte-to-many relationship with a multiplicity of 1 : 0..*. One StudyPlanner can have zero or more StudySession objects. This fits the system because a student can have one study planner with several study sessions for different subjects or time intervals.
 
 ### How did you implement the relationship in Python?
+I implemented the relationship by creating a list called study_sessions inside the StudyPlanner class. This list stores the actual StudySession objects. I also created an add_session() method that adds a StudySession object to the list.
 
 ### Why did you store an object reference instead of copying its data?
+I stored it so that the StudyPlanner can access the actual StudySession object and its information. For example, the planner can access the start time or duration of a session without copying those values into the StudyPlanner.
 
 ### If your relationship uses many, why is a list appropriate?
+A list is appropriate because one StudyPlanner can contain multiple StudySession objects. The list stores the actual StudySession objects, which allows the StudyPLanner to keep track of all its study sessions.
