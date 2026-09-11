@@ -25,3 +25,5 @@ birthday kopo august 18
 # OOP ACT PART 2:
 [View my work heree!⋆˚꩜｡](quarter1/classAttributesMethods.md)
 
+# OOP ACT PART 3:
+[View my work heree!⋆˚꩜｡](quarter1/classRelationships.md).
