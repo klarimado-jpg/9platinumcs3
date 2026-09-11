@@ -18,14 +18,14 @@ Class: StudySession
 Description: A StudySession represents a study plan that allocates a specific block of time dedicated to studying. It contains attributes like start time, end time, duration, and breaks. It helps students assign different subjects to learn in different time intervals (pomodoro method).
 
 ## Association
-Relationship: 
+Relationship: StudyPlanner HAS-A StudySession.
 
-Explanation:
+Explanation: A StudyPlanner can contain and manage multiple StudySession objects. Each study session represents a specific time interval that can be used for studying different subjects or tasks.
 
 ## Multiplicity
-Multiplicity:
+Multiplicity: 1 : 0..*
 
-Explanation:
+Explanation: One StudyPlanner can have zero or more StudySession objects. A student can create a study planner before adding any study sessions, and they can add multiple study sessions to organize their study schedule.
 
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
