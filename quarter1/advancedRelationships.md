@@ -33,7 +33,7 @@ Explanation: The relationship is an aggregation because a StudyPlanner can conta
 ## Python Implementation
 [Source Code](advancedRelationships.py)
 
-## Test Run
+## Test Run 
 ![Test](images/advancedTestRun.png)
 
 ## Object Diagram
@@ -50,7 +50,7 @@ Inheritance reduced duplicate code because PomodoroSession does not need to rewr
 The relationship is aggregation because StudyPlanner contains StudySession objects, but the sessions can exist independently. The session objects are created separately before they are added to the planner. Therefore, deleting the planner does not necessarily mean that the study session objects must also be deleted.
 
 ### 4. What is the difference between Association from Part III and the advanced relationship you implemented?
-Association simply describes a relationship between classes such as a StudyPlanner being connected to a StudySession. Aggregation is more specific because it describes a weak HAS-A relationship where one object contains another object while the contained object can still exist independently. In this system, the planner contains study sessions without completely owning their existence.
+Association describes a relationship between classes such as a StudyPlanner being connected to a StudySession. Aggregation is more specific because it describes a weak HAS-A relationship where one object contains another object while the contained object can still exist independently. In this system, the planner contains study sessions without completely owning their existence.
 
 ### 5. How does your design follow the DRY principle?
 The design follows the DRY principle because common study-session attributes and behavior are written only once in StudySession. PomodoroSession inherits those features instead of repeating the same code. This makes the program easier to maintain and update.
