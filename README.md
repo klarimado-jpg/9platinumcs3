@@ -30,3 +30,6 @@ birthday kopo august 18
 
 # OOP ACT PART 4:
 [View my work heree!⋆˚꩜｡](quarter1/advancedRelationships.md).
+
+# ENCAPSULATION V3
+[View my work heree!⋆˚꩜｡]
