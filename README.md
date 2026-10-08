@@ -32,4 +32,4 @@ birthday kopo august 18
 [View my work heree!⋆˚꩜｡](quarter1/advancedRelationships.md).
 
 # ENCAPSULATION V3
-[View my work heree!⋆˚꩜｡]
+[View my work heree!⋆˚꩜｡](quarter1/sg8_encapsulation.py)
