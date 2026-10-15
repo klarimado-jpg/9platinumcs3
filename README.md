@@ -33,3 +33,6 @@ birthday kopo august 18
 
 # ENCAPSULATION V3
 [View my work heree!⋆˚꩜｡](quarter1/sg8_encapsulation.py)
+
+# INHERITANCE FA1
+[View my work heree!⋆˚꩜｡](quarter2/sg9_inheritance.py)
