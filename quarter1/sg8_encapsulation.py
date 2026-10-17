@@ -1,8 +1,8 @@
 class BankAccount: # creates the class
     
     def __init__(self, account_number, balance): # constructor that will run when a Bankaccount is created
-        self.set__account_number(account_number) # calls the setter to store account number
-        self.set__balance(balance) # calls the setter to store the balance
+        self.set_account_number(account_number) # calls the setter to store account number
+        self.set_balance(balance) # calls the setter to store the balance
         
 
 def get_account_number(self): #gets the account number
