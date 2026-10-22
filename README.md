@@ -36,3 +36,6 @@ birthday kopo august 18
 
 # INHERITANCE FA1:
 [View my work heree!⋆˚꩜｡](quarter2/sg9_inheritance.py)
+
+# METHOD OVERRIDING:
+[View my work heree!⋆˚꩜｡](quarter2/sg10_methodoverriding.py)
