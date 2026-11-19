@@ -39,3 +39,10 @@ birthday kopo august 18
 
 # METHOD OVERRIDING:
 [View my work heree!⋆˚꩜｡](quarter2/sg10_methodoverriding.py)
+
+# POLYMORPHISM ACTIVITY 1:
+[View my work heree!⋆˚꩜｡](quarter2/sg11_enhancedhospitalbillingsystem.py)
+
+# DUCK TYPING CODE:
+[View my work heree!⋆˚꩜｡](quarter2/sg11_ducktyping.py)
+
